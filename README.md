@@ -14,7 +14,7 @@ Installation
   Support" (LTS) versions and has a [release process][6] that is predictable and
   business-friendly.
 
-Sponsor
+Sponsors
 -------
 
 Symfony 7.1 is [backed][27] by
